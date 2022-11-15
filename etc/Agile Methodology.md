@@ -11,7 +11,7 @@
 3. 계약과 협상보다 **고객과의 협력**
 4. 계획을 따르기보다 **변화에 대응하기**
 
-<img width="50%" src="/Users/kyukin/study/study/img/Agile.jpg">
+<img width="50%" src="../img/Agile.jpg">
 
 ## Scrum
 > 애자일의 가장 대표적인 개발방법론으로 30일마다 동작 가능한 제품을 만들어내는 짧은 단위인 스프린트(sprint)로 나누어서 개발한다.
@@ -27,4 +27,4 @@
 
 ## 반대격인 폭포수 방법론
 
-<img width="70%" src="/Users/kyukin/study/study/img/Agile vs Waterfall.png">
+<img width="70%" src="../img/Agile vs Waterfall.png">
